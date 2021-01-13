@@ -1,2 +1,2 @@
-# Projeto realizado para estudos de HTML, link para conferir.
+# Projeto realizado para estudos de HTML. Link para conferir:
 https://haussi.github.io/ProjetoUnes/
